@@ -1,0 +1,109 @@
+join @SOULCRACKS TELEGRAM
+and most important your codespace ip must be 172.156.xx.xx this only come when you connected to usa vpn when you making account of GitHub 
+Today i will tell you how to fix GitHub issue 
+first i will show to about ddos right now 
+i will show one attack 
+now i will tell you how to do this first you need some power full proxy and few codes first update your Ubuntu version must update it using vpn let me on my codespace until 
+after login done 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+install this all commands 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current version is 20 update it now 
+lsb_release -a
+sudo apt update
+sudo apt upgrade -y
+sudo apt install update-manager-core -y
+sudo apt dist-upgrade
+sudo do-release-upgrade
+sudo do-release-upgrade -d
+lsb_release -a
+
+this will take 5 min to 10 min to download
+
+
+
+now choice option 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JOIN @SOULCRACKS
